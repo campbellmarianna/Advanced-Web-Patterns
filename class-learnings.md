@@ -27,6 +27,12 @@
 - [Stripe](https://stripe.com/en-US/payments/elements)
     - Stripe has forms + payment with really good UI
 
+[DAY 4] I learned that axios handles routes on the client.
+    - [AWS S3 - Bucket](https://s3.console.aws.amazon.com/s3/buckets/petes-pets-stuff/pets/?region=us-east-1&tab=overview)
+
+[DAY 5] Async Await is a way to make code more readiable and handling callback functions.
+    - [Article with Implementation](https://medium.com/@Abazhenov/using-async-await-in-express-with-node-8-b8af872c0016)
+
 Credits:
 Photo of female in hard hat: https://blog.plangrid.com/2018/06/6-tips-to-build-social-media-buzz-for-your-construction-company/
 

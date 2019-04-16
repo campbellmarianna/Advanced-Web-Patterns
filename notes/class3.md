@@ -13,3 +13,5 @@ Writing blogpost takes Make School students to whole level of professionalism
 
 ## Custom Error Messages
 - 404 Eror Message (Could be your recipes)
+
+- Left off at reading mongoose validation: https://mongoosejs.com/docs/validation.html
