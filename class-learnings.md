@@ -33,6 +33,15 @@
 [DAY 5] Async Await is a way to make code more readiable and handling callback functions.
     - [Article with Implementation](https://medium.com/@Abazhenov/using-async-await-in-express-with-node-8-b8af872c0016)
 
+[DAY 6] The client initializes a connection to the server via HTTP.
+- [Web Socket Docs](https://hpbn.co/websocket/)
+
+[DAY 7] 80% percent of time at a company in an engineering team will be spent is making in argument of how the archecture of something should be or what technology your team should you use and express evidence (pros and cons of both)
+- [Decision Document](https://docs.google.com/document/d/1PJugjbSTVoVB_Mp5ff_QT5U7boJgcNwSXyFEvsqL7zw/edit?usp=sharing)
+
+[DAY 8] Javascript can listen for when the DOM is loaded then perform actions such connect to this socket.
+- [DOMContentLoader](https://javascript.info/onload-ondomcontentloaded)
+
 Credits:
 Photo of female in hard hat: https://blog.plangrid.com/2018/06/6-tips-to-build-social-media-buzz-for-your-construction-company/
 
